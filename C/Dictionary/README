@@ -1,0 +1,15 @@
+README
+Sean Gordon
+skgordon #1405355
+CMPS 12B pa5
+5/30/15
+README for pa5 files
+
+Contents:
+
+Dictionary.c       - 
+Dictionary.h       - 
+DictionaryTest.c   - 
+DictionaryClient.c - Run using "%make" then "DictionaryClient"
+Makefile           - Using "%make" compiles DictionaryClient 
+README

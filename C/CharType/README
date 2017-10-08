@@ -1,0 +1,12 @@
+README
+Sean Gordon
+skgordon #1405355
+CMPS 12M lab4
+4/29/15
+README for lab4 files
+
+Contents:
+
+charType.c - Use Makefile, then "%charType <input file> <output file>"
+Makefile   - To compile use "%make", also includes "%make check" to check for memory leaks
+README

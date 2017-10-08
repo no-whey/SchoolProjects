@@ -1,0 +1,16 @@
+README
+Sean Gordon
+skgordon #1405355
+CMPS 12M lab6
+5/15/15
+README for lab6 files List ADT
+
+Contents:
+
+List.java
+ListInterface.java
+ListTest.java
+ListClient.java                    - use Makefile, then "%ListClient"
+ListIndexOutOfBoundsException.java
+Makefile                           - use "%make" to create jar file ListClient
+README

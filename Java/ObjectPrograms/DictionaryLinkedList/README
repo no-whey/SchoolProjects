@@ -1,0 +1,17 @@
+README
+Sean Gordon
+skgordon #1405355
+CMPS 12B pa3
+4/26/15
+README for pa3 Dictionary ADT files
+
+Contents:
+
+Dictionary.java            
+DictionaryTest.java        
+KeyCollisionException.java 
+KeyNotFoundException.java  
+DictionaryInterface.java   
+DictionaryClient.java      
+Makefile                   - Using "%make" will create a jar file for DictionaryClient 
+README

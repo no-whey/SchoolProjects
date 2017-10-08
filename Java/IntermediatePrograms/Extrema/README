@@ -1,0 +1,12 @@
+README
+Sean Gordon
+skgordon #1405355
+CMPS 12B pa1
+4/5/15
+README for pa1 files
+
+Contents:
+
+Extrema.java - to compile use Makefile
+Makefile     - use "%make" and then "%Extrema" to run the program
+README

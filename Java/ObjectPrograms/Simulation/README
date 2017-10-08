@@ -1,0 +1,20 @@
+README
+Sean Gordon
+skgordon #1405355
+CMPS 12B pa4
+5/10/15
+README for pa4 files Queue ADT, Simulation, and Job ADT
+
+Contents:
+
+Simulation.java          - to run use Makefile, then "%Simulation input_file"
+           Special Note  - *program moves each job seperately*
+           Continued     - *some times may be duplicated*
+                         - 
+QueueInterface.java      - 
+QueueEmptyException.java - 
+Queue.java               - 
+QueueTest.java           - 
+Job.java                 - 
+Makefile                 - Use "%make" to compile source files 
+README

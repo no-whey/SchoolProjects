@@ -1,0 +1,13 @@
+README
+Sean Gordon
+skgordon #1405355
+CMPS 12B pa2
+4/17/15
+README contents for pa2 files: Search.java Makefile README
+
+Contents:
+
+Search.java - use Makefile, then "%Search file target1 [target2 target3 ..]"
+            - Search.java also includes the line number where the target was found.
+Makefile    - to compile and create jar file, use "%make"
+README

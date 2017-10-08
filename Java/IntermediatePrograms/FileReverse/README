@@ -1,0 +1,12 @@
+README
+Sean Gordon
+skgordon #1405355
+CMPS 12M lab2
+4/17/15
+README for lab2 files: FileReverse.java Makefile README
+
+Contents:
+
+FileReverse.java - To run use Makefile and command "%FileReverse fileIn fileOut"
+Makefile         - To compile FileReverse.java use command "%make"
+README

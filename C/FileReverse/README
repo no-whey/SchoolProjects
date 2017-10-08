@@ -1,0 +1,12 @@
+README
+Sean Gordon
+skgordon #1405355
+CMPS 12M lab3
+4/21/15
+README for lab3 files: FileReverse.c Makefile README
+
+Contents:
+
+FileReverse.c - Use Makefile, then "% FileReverse <inputfile> <outputfile>"
+Makefile      - To compile use "% make" and "% make clean" to clean files
+README

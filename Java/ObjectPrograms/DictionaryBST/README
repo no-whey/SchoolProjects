@@ -1,0 +1,16 @@
+README
+Sean Gordon
+skgordon #1405355
+CMPS 12M lab7
+5/25/15
+README for lab7 files
+
+Contents:
+
+Dictionary.java            - 
+DictionaryInterface.java   - 
+DictionaryClient.java      - 
+KeyCollisionException.java - 
+KeyNotFoundException.java  - 
+Makefile                   - 
+README
